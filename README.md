@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Hack: stack overflow errors in recursive functions. The `foo` function calculates the factorial, but lacks input validation to prevent stack overflow when given excessively large inputs. The solution shows how to add input validation to prevent this error.
